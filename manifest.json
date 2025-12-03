@@ -3,18 +3,18 @@
   "short_name": "RiaWeather",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",  
-  "theme_color": "#67b7f3", 
+  "background_color": "#ffffff",
+  "theme_color": "#67b7f3",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/img/web-app-manifest-192x192.png",
+      "src": "img/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "/img/web-app-manifest-512x512.png",
+      "src": "img/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
